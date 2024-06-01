@@ -68,7 +68,6 @@ async function galleryOn(e) {
       position: 'topRight',
       backgroundColor: '#EF4040',
       theme: 'dark',
-      iconUrl: octagon,
       maxWidth: 354,
       messageSize: '16',
     });
